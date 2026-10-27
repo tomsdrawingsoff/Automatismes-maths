@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-28",
+  "level": "1ère",
+  "topic": "Polynômes",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "caption": "✏️ L’AUTOMATISME DU JOUR — 1ère | Polynômes\n\nSoit f(x) = 3x² − x − 3. Calcule f(-1).\n\nFais défiler pour voir l’indice, la correction puis mes fiches de révision. Tu veux t’entraîner davantage ? Clique sur le lien sur mon profil 📚\n\n#maths #mathematiques #revisions #premierespe #premiere",
+  "exercise": {
+    "topic": "Polynômes",
+    "question": "Soit f(x) = 3x² − x − 3. Calcule f(-1).",
+    "hint": "Attention au carré si x est négatif.",
+    "steps": [
+      "f(-1) = 3 × (-1)² + (-1) × (-1) + (-3)",
+      "= (3) + (1) + (-3)",
+      "= 1"
+    ],
+    "answer": "f(-1) = 1",
+    "take": "Pour calculer une image, remplace x puis respecte les priorités."
+  },
+  "style": "fiches-pastel-v2",
+  "handle": "@tomsdrawingsoff"
+}

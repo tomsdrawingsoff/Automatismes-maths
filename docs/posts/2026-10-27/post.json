@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-27",
+  "level": "3e",
+  "topic": "Pourcentages",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "caption": "✏️ L’AUTOMATISME DU JOUR — 3e | Pourcentages\n\nUn article coûte 120 €. Il est soldé à −10 %. Quel est son nouveau prix ?\n\nFais défiler pour voir l’indice, la correction puis mes fiches de révision. Tu veux t’entraîner davantage ? Clique sur le lien sur mon profil 📚\n\n#maths #mathematiques #revisions #brevet #troisieme",
+  "exercise": {
+    "topic": "Pourcentages",
+    "question": "Un article coûte 120 €. Il est soldé à −10 %. Quel est son nouveau prix ?",
+    "hint": "Calcule la remise, puis retire-la au prix initial.",
+    "steps": [
+      "Remise : 120 × 10/100",
+      "= 12 €",
+      "Nouveau prix : 120 − 12 = 108 €"
+    ],
+    "answer": "108 €",
+    "take": "Après −p %, le prix est multiplié par (1 − p/100)."
+  },
+  "style": "fiches-pastel-v2",
+  "handle": "@tomsdrawingsoff"
+}
